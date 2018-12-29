@@ -22,8 +22,13 @@ to a text file called game_results.txt in the same format it is displayed on the
 Your program should work with the following input:
 
 Sam 200
+
 Bill 125
+
 Mary 235
+
 Jane 205
+
 Alex 300
+
 Sue 280
