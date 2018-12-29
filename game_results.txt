@@ -1,0 +1,16 @@
+
+===== Listed by Entry =====
+James		200
+*Kenlie		300
+Jackson		150
+===== Listed by Top Scorer =====
+*Kenlie		300
+James		200
+Jackson		150
+===== Listed Alphabetically =====
+Jackson		150
+James		200
+*Kenlie		300
+Congratulations Kenlie! You were the top score at 300!
+Sorry Jackson, you were the lowest score at 150. Keep practicing!
+The average score for the team is: 216
